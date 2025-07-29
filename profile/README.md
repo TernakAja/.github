@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="Primary-Logo.png" height="120" />
-  <h1>TernakAja</h1>
+  <p align="center">
+  <a href="">
+    <img width="1613" height="528" alt="TernakAja" src="https://github.com/user-attachments/assets/6cc18477-97c0-4b9a-8b1a-96a8e2c4f98f" />
+  </a>
+</p>
   <p><strong>Developer Team dari TernakAja untuk Perlombaan Pikiran Negeri Terbaik x ElevAIte 2025</strong></p>
   <p>Bersama Kita Membangun Negeri!</p>
   <br />
