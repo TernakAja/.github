@@ -4,8 +4,7 @@
     <img width="1613" height="528" alt="TernakAja" src="https://github.com/user-attachments/assets/6cc18477-97c0-4b9a-8b1a-96a8e2c4f98f" />
   </a>
 </p>
-  <p><strong>Developer Team dari TernakAja untuk Perlombaan Pikiran Negeri Terbaik x ElevAIte 2025</strong></p>
-  <p>Bersama Kita Membangun Negeri!</p>
+  <p><strong>Development Team dari TernakAja</strong></p>
   <br />
 </div>
 
