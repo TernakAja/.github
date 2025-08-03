@@ -8,7 +8,7 @@
   <br />
 </div>
 
----
+
 
 ## 🚀 Tentang Kita
 
@@ -24,7 +24,7 @@ Mewujudkan masa depan peternakan Indonesia yang cerdas, sehat, dan berkelanjutan
 - Menjembatani kesenjangan digital antara teknologi modern dan kehidupan peternak tradisional di pelosok Indonesia.
 - Menyediakan solusi cerdas yang terjangkau, mudah digunakan, dan siap digunakan di lapangan tanpa perlu keahlian teknis tinggi.
 
----
+
 
 ## 👥 Tim
 
@@ -39,7 +39,7 @@ Organisasi TernakAja ini dibuat oleh
 <li>Georgius Rama Prasetyo Krisario Lewokeda - IoT Systems Architect</li>
 </ul>
 
----
+
 
 ## 📧 Kontak
 
