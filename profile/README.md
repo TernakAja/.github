@@ -4,7 +4,7 @@
     <img width="1613" height="528" alt="TernakAja" src="https://github.com/user-attachments/assets/6cc18477-97c0-4b9a-8b1a-96a8e2c4f98f" />
   </a>
 </p>
-  <p><strong>Development Team dari TernakAja</strong></p>
+  <p><strong>Ternak Sehat, Bebas Repot Tiap Saat.</strong></p>
   <br />
 </div>
 
@@ -45,9 +45,9 @@ Organisasi TernakAja ini dibuat oleh
 
 Jika ada pertanyaan atau ingin kolaborasi bisa kontak melalui salah satu data berikut ini:
 
-- Email : stanley.n.wijaya7@gmail.com
-- Telegram : https://t.me/xstynwx
-- Discord : stynw7
+- Email : marketingternakaja@gmail.com
+- Telegram : https://t.me/xstynwx (a.n. Stanley Nathanael Wijaya)
+- Discord : stynw7 (a.n. Stanley Nathanael Wijaya)
 
 ---
 
